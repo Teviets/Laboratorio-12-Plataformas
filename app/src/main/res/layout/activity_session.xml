@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".scope.LoginFragment">
+    tools:context=".scope.sessionActivity">
 
     <ImageView
         android:id="@+id/icon_loginFragment_rickMorty"
@@ -91,4 +91,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
