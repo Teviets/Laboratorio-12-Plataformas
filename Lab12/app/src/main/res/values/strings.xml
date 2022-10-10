@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lab12</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Sebastian Estrada</string>
+    <string name="species">Species:</string>
+    <string name="status">Status:</string>
+    <string name="gender">Gender:</string>
+    <string name="origin">Origin:</string>
+    <string name="episodes">Episodes:</string>
+    <string name="characters">Characters</string>
+    <string name="character_detail">Character Detail</string>
+    <string name="error_fetching">Error al llamar al API</string>
+    <string name="error_email_password">Correo o contraseña incorrecta</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo</string>
+    <string name="my_email">est21405@uvg.edu.gt</string>
+    <string name="SessionOnTxt">Mantener sesión Activa</string>
+    <string name="logOut_Txt">Cerrar Sesion</string>
+    <string name="default_Txt">Default</string>
+    <string name="success_Txt">Success</string>
+    <string name="failure_Txt">Failure</string>
+    <string name="empty_Txt">Empty</string>
+    <string name="default_txt_in_TxtView">Selecciona una opción</string>
+    <string name="success_txt_in_TxtView">!Operación exitosa¡</string>
+    <string name="failure_txt_in_TxtView">!Operación fallida¡</string>
+    <string name="empty_txt_in_TxtView">Sin resultados</string>
+
+</resources>
